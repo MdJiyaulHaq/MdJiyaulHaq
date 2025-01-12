@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdJiyaulHaq&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdJiyaulHaq&theme=blue_green)
